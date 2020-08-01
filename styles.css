@@ -1,0 +1,54 @@
+body{
+  margin: 0;
+}
+button{
+  background-color: gray;
+  padding: 7px;
+  border-radius: 8px;
+  color: white;
+}
+#Einleitung{
+  padding: 20px;
+  text-align: center;
+  color: white;
+  margin: 25px;
+  background-color: #666666;
+}
+img{
+  margin: 10px;
+  height: auto;
+  width: 512px;
+}
+.Kapitel{
+  padding: 30px;
+  float: left;
+  width: 50%;
+  color: black;
+}
+#Impressum{
+  padding: 30px;
+}
+a{
+  color: black;
+}
+.KapitelOhneFloat{
+  padding: 30px;
+}
+#Inhalt{
+  padding: 30px;
+
+}
+.Fragen{
+  text-align: center;
+  margin: 30px;
+}
+#open1, #open2, #open3, #open4{
+  display: none;
+  width: 75%;
+  text-align: center;
+  margin: auto;
+  margin-top: 15px;
+  border: 2px solid #666666;
+  border-radius: 15px;
+  padding: 0px 10px 0px 10px;
+}
