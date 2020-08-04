@@ -6,7 +6,8 @@ button{
   padding: 7px;
   border-radius: 8px;
   color: white;
-  font-size: 35px;
+  font-size: 15px;
+  width: 10%;
 }
 #Einleitung{
   padding: 20px;
