@@ -8,6 +8,7 @@ button{
   color: white;
   font-size: 15px;
   width: 10%;
+  border: 2px solid black;
 }
 #Einleitung{
   padding: 20px;
