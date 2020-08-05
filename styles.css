@@ -17,7 +17,7 @@ button{
   margin: 25px;
   background-color: #666666;
 }
-img{
+#Bild1{
   margin: 10px;
   height: auto;
   width: 512px;
@@ -41,11 +41,11 @@ a{
   padding: 30px;
 
 }
-.Fragen{
+#Inhalt{
   text-align: center;
   margin: 30px;
 }
-#open1, #open2, #open3, #open4, #open5{
+#open1, #open2, #open3, #open4, #open5, #open6, #openStoßparameter{
   display: none;
   width: 75%;
   text-align: center;
@@ -54,4 +54,8 @@ a{
   border: 2px solid #666666;
   border-radius: 15px;
   padding: 0px 10px 0px 10px;
+}
+#Bild2{
+  width: 40%;
+  height: auto;
 }
