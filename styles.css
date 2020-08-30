@@ -7,7 +7,7 @@ button{
   border-radius: 8px;
   color: white;
   font-size: 15px;
-  width: 10%;
+  width: 15%;
   border: 2px solid black;
 }
 #Einleitung{
@@ -45,7 +45,8 @@ a{
   text-align: center;
   margin: 30px;
 }
-#open1, #open2, #open3, #open4, #open5, #open6, #openStoßparameter, #openSchwerpunktsystem{
+#open1, #open2, #open3, #open4, #open5, #open6, #open7, #open8, #open9, #open10,
+#openBoltzmann-Statistik, #openHohlraumstrahlung, #openStoßparameter, #openSchwerpunktsystem, #openUltaviolett-Katastrophe{
   display: none;
   width: 75%;
   text-align: center;
@@ -55,7 +56,16 @@ a{
   border-radius: 15px;
   padding: 0px 10px 0px 10px;
 }
-#Bild2{
+#openFehler{
+  display: none;
+  width: 75%;
+  text-align: center;
+  margin: auto;
+  margin-top: 15px;
+  padding: 0px 10px 0px 10px;
+  margin-bottom: 15px;
+}
+#Bild2, #Bild3, #Bild4{
   width: 300px;
   height: auto;
 }
