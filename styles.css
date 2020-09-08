@@ -45,8 +45,8 @@ a{
   text-align: center;
   margin: 30px;
 }
-#open1, #open2, #open3, #open4, #open5, #open6, #open7, #open8, #open9, #open10,
-#openBoltzmann-Statistik, #openHohlraumstrahlung, #openStoßparameter, #openSchwerpunktsystem, #openUltaviolett-Katastrophe{
+#open1, #open2, #open3, #open4, #open5, #open6, #open7, #open8, #open9, #open10, #open11,
+#openBoltzmann-Statistik, #openEntropie, #openHohlraumstrahlung, #openStoßparameter, #openSchwerpunktsystem, #openUltaviolett-Katastrophe{
   display: none;
   width: 75%;
   text-align: center;
